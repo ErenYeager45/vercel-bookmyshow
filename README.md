@@ -4,28 +4,28 @@ This is a web application for booking and managing movie tickets, events, and sh
 
 ## Table of Contents
 
-*Features*
-*Prerequisites
-*Installation
-*Configuration
-*Usage
-*Folder Structure
-*Dependencies
-*Contributing
+* Features
+* Prerequisites
+* Installation
+* Configuration
+* Usage
+* Folder Structure
+* Dependencies
+* Contributing
 
 ### Features
 
-*Select your movie*.
-*Book time & seat for movie.
-*Integration with MongoDB for data storage.
-*Responsive design using Bootstrap for frontend.
+* Select your movie.
+* Book time & seat for movie.
+* Integration with MongoDB for data storage.
+* Responsive design using Bootstrap for frontend.
 
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-*Node.js and npm installed.
-*MongoDB database setup.
+* Node.js and npm installed.
+* MongoDB database setup.
 
 ### Installation
 
@@ -62,9 +62,9 @@ You need to set up your environment variables and configuration files. Please fo
 
 ### Folder Structure
     
-    *client: Contains the React frontend.
-    *src: Contains the Express backend.
-    *public: Public assets and static files.
+    client: Contains the React frontend.
+    src: Contains the Express backend.
+    public: Public assets and static files.
 
 ### Dependencies
 
@@ -81,9 +81,9 @@ For a full list of dependencies, please check the package.json files in both the
 
 This project was worked on by the following individuals:
 
-*Sarvesh Kumar
-*Bhaskar Bhardwaj
-*Rajdeep Dey
+* Sarvesh Kumar
+* Bhaskar Bhardwaj
+* Rajdeep Dey
 
 If you have any questions or need further assistance, please feel free to reach out to any of the contributors.
 
