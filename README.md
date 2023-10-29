@@ -1,6 +1,6 @@
 # Project: BookMyShow Website
 
-This is a web application for booking and managing movie tickets, events, and shows. It is built using React for the frontend, Express for the backend, and MongoDB as the database. Bootstrap is used for the styling of the frontend.
+This is the web application for booking and managing movie tickets, events, and shows. It is built using React for the frontend, Express for the backend, and MongoDB as the database. Bootstrap is used for the styling of the frontend.
 
 ## Table of Contents
 
