@@ -4,7 +4,7 @@ This is a web application for booking and managing movie tickets, events, and sh
 
 ## Table of Contents
 
-*Features
+*Features*
 *Prerequisites
 *Installation
 *Configuration
@@ -15,7 +15,7 @@ This is a web application for booking and managing movie tickets, events, and sh
 
 ### Features
 
-*Select your movie.
+*Select your movie*.
 *Book time & seat for movie.
 *Integration with MongoDB for data storage.
 *Responsive design using Bootstrap for frontend.
