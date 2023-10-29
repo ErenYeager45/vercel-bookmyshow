@@ -70,8 +70,8 @@ You need to set up your environment variables and configuration files. Please fo
 
 This project uses the following major libraries and frameworks:
 
-1. React (frontend)
-2. Express (backend)
+1. ReactJS (frontend)
+2. ExpressJS (backend)
 3. MongoDB (database)
 4. Bootstrap (styling)
 
