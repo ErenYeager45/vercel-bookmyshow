@@ -89,7 +89,7 @@ If you have any questions or need further assistance, please feel free to reach 
 
 
 
-Enjoy using your bookmyshow website! If you have any questions or need further assistance, please feel free to reach out to us.
+Enjoy using your bookmyshow website!
 
 #### Happy Coding!
 
