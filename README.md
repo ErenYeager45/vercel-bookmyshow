@@ -11,7 +11,7 @@ This is a web application for booking and managing movie tickets, events, and sh
 * Usage
 * Folder Structure
 * Dependencies
-* Contributing
+* Contributors
 
 ### Features
 
@@ -40,31 +40,31 @@ Before you begin, ensure you have met the following requirements:
 You need to set up your environment variables and configuration files. Please follow these steps:
 1. Create a .env file in the server directory and add the following:
 
-    MONGODBURI = mongodb://127.0.0.1:27017/bookMovie 
-    MONGODBLIVE = mongodb+srv://rdey5486:sCVwjK9hQC5mmPee@cluster0.sukyqob.mongodb.net/bookmyshow?retryWrites=true&w=majority
-    COLLECTION_NAME = bookmovietickets
-    NODE_ENV =  development
-    APP_PORT = 4000 
-    GET_REQUEST = /api/booking
-    POST_REQUEST = /api/booking
+* MONGODBURI = mongodb://127.0.0.1:27017/bookMovie 
+* MONGODBLIVE = mongodb+srv://rdey5486:sCVwjK9hQC5mmPee@cluster0.sukyqob.mongodb.net/bookmyshow?retryWrites=true&w=majority
+* COLLECTION_NAME = bookmovietickets
+* NODE_ENV =  development
+* APP_PORT = 4000 
+* GET_REQUEST = /api/booking
+* POST_REQUEST = /api/booking
 
 2. Update the client's configuration if needed (e.g., API endpoints).
 
 ### Usage
 
 1. Start the server:
-    cd src
-    npm start
+    - cd src
+    - npm start
 
 2. Start the client:
-    cd client
-    npm start
+    - cd client
+    - npm start
 
 ### Folder Structure
     
-    client: Contains the React frontend.
-    src: Contains the Express backend.
-    public: Public assets and static files.
+* client = Contains the React frontend.
+* src = Contains the Express backend.
+* public = Public assets and static files.
 
 ### Dependencies
 
