@@ -9,7 +9,8 @@ const isProduction = () => {
   return process.env.NODE_ENV === "production" ? true : false;
   };
   
-const mongoURI = process.env.MONGODBURI;
+//const mongoURI = process.env.MONGODBURI;
+const mongoURI = process.env.MONGODBLIVE;
 
 const { bookMovieSchema } = require('./schema')
 
