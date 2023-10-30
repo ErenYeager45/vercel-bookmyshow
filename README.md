@@ -81,9 +81,9 @@ For a full list of dependencies, please check the package.json files in both the
 
 This project was worked on by the following individuals:
 
-* Sarvesh Kumar
-* Bhaskar Bhardwaj
-* Rajdeep Dey
+* [Sarvesh Kumar](https://github.com/Sarveshkumar0611)
+* [Bhaskar Bhardwaj](https://github.com/Bhashkarkumar)
+* [Rajdeep Dey](https://github.com/RajdeepDey010)
 
 If you have any questions or need further assistance, please feel free to reach out to any of the contributors.
 
