@@ -1,6 +1,6 @@
 # Project: [BookMyShow Website](https://bookmyshow-almabetter.netlify.app/)
 
-This is a web application for booking and managing movie tickets, events, and shows. It is built using React for the frontend, Express for the backend, and MongoDB as the database. Bootstrap is used for the styling of the frontend.
+This is the web application for booking and managing movie tickets, events, and shows. It is built using React for the frontend, Express for the backend, and MongoDB as the database. Bootstrap is used for the styling of the frontend.
 
 ## Table of Contents
 
@@ -70,8 +70,8 @@ You need to set up your environment variables and configuration files. Please fo
 
 This project uses the following major libraries and frameworks:
 
-1. React (frontend)
-2. Express (backend)
+1. ReactJS (frontend)
+2. ExpressJS (backend)
 3. MongoDB (database)
 4. Bootstrap (styling)
 
@@ -89,7 +89,7 @@ If you have any questions or need further assistance, please feel free to reach 
 
 
 
-Enjoy using your bookmyshow website! If you have any questions or need further assistance, please feel free to reach out to us.
+Enjoy using your bookmyshow website!
 
 #### Happy Coding!
 
