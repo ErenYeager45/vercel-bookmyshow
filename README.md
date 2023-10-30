@@ -41,7 +41,7 @@ You need to set up your environment variables and configuration files. Please fo
 1. Create a .env file in the server directory and add the following:
 
 * MONGODBURI = mongodb://127.0.0.1:27017/bookMovie 
-* MONGODBLIVE = mongodb+srv://rdey5486:sCVwjK9hQC5mmPee@cluster0.sukyqob.mongodb.net/bookmyshow?retryWrites=true&w=majority
+* MONGODBLIVE = mongodb+srv://rdey5486:iJfbAZorfg4zex5q@cluster0.sukyqob.mongodb.net/
 * COLLECTION_NAME = bookmovietickets
 * NODE_ENV =  development
 * APP_PORT = 4000 
