@@ -81,9 +81,10 @@ For a full list of dependencies, please check the package.json files in both the
 
 This project was worked on by the following individuals:
 
-* [Sarvesh Kumar](https://github.com/Sarveshkumar0611)
-* [Bhaskar Bhardwaj](https://github.com/Bhashkarkumar)
-* [Rajdeep Dey](https://github.com/RajdeepDey010)
+* Pranav Vijay
+  Hamza khan 
+  AtuL kumar
+  
 
 If you have any questions or need further assistance, please feel free to reach out to any of the contributors.
 
@@ -92,5 +93,3 @@ If you have any questions or need further assistance, please feel free to reach 
 Enjoy using your bookmyshow website!
 
 #### Happy Coding!
-
-![bookmyshow](https://github.com/deevesh11nov/BookmyShow/assets/127090783/9c9d01e5-7dde-4e46-8635-3fe1dd6c453d)
